@@ -1,2 +1,2 @@
 # ansible-config-mgt
-An devops solution project
+A devops solution project
